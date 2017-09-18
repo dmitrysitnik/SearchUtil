@@ -1,0 +1,15 @@
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.csprojResolveAssemblyReference.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.FormWord.resources
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.csproj.GenerateResource.Cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.csproj.CoreCompileInputs.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\WordAttributes.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\WordAttributes.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\SearchUtil.exe
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\SearchUtil.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\SearchUtil.exe.config
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\obj\Debug\WordAttributes.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\WordAttributes\bin\Debug\System.IO.Packaging.dll

@@ -1,0 +1,11 @@
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.csprojResolveAssemblyReference.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.csproj.CoreCompileInputs.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\bin\Debug\SearchSubStr.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\bin\Debug\SearchSubStr.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\bin\Debug\SearchUtil.exe
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\bin\Debug\SearchUtil.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\bin\Debug\SearchUtil.exe.config
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.dll
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.Form1.resources
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SearchSubStr\obj\Debug\SearchSubStr.csproj.GenerateResource.Cache

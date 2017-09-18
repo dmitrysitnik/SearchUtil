@@ -1,0 +1,10 @@
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.csprojResolveAssemblyReference.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.Form1.resources
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.Properties.Resources.resources
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.csproj.GenerateResource.Cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.csproj.CoreCompileInputs.cache
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\bin\Debug\SerachUtil.exe.config
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\bin\Debug\SerachUtil.exe
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\bin\Debug\SerachUtil.pdb
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.exe
+C:\Users\hate4\Desktop\BroadRidge\SerachUtil\SerachUtil\obj\Debug\SerachUtil.pdb
